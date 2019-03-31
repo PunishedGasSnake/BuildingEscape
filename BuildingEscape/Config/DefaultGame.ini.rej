@@ -1,0 +1,8 @@
+diff a/BuildingEscape/Config/DefaultGame.ini b/BuildingEscape/Config/DefaultGame.ini	(rejected hunks)
+@@ -0,0 +1,6 @@
++[/Script/EngineSettings.GeneralProjectSettings]
++ProjectID=2E2E0F144F8A59A85FEE58A1DC5C1C62
++
++[StartupActions]
++bAddPacks=True
++InsertPack=(PackSource="StarterContent.upack,PackName="StarterContent")
